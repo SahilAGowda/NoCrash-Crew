@@ -61,7 +61,7 @@ If you want to test the code without ROS integrations, you can download `nROSmas
 To get the full repository, run the following command:
 
 ```
-git clone https://github.com/Fifirex/Hand-Detection.git
+git clone https://github.com/SahilAGowda/NoCrash-Crew.git
 ```
 
 Once you have the code, install the required Python libraries:
